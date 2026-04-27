@@ -4,7 +4,7 @@
 qtd_excelente = 0
 qtd_ruim = 0
 
-# Estrutura de repetição FOR para 50 entrevistados
+# Estrutura de repetição FOR para 10 entrevistados
 for i in range(1, 11):
     print(f"\nEntrevistado {i}")
     nome = input("Digite seu nome: ")
